@@ -1,0 +1,644 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html, body {
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+    
+}
+
+
+
+
+
+body{
+    padding: 0px 0px;
+    /* width: 90%;
+    margin: 0 auto; */
+    /* overflow-x: hidden; */
+}
+
+.container__header{
+    display: flex;
+    width: 70em;
+    justify-content: space-between;
+    
+}
+
+
+.logo__both{
+    width: 30%;
+    display: flex;
+}
+
+
+
+
+
+
+a{
+    color: #505050;
+}
+
+li{
+    display: flex;
+    list-style: none;
+    padding: 0px 10px;
+    
+
+}
+
+
+
+.nav1{
+    margin-left: 20px;
+}
+
+.logo2{
+    font-size: 7.5px;
+    font-weight: 500;
+    margin-left: 1rem;
+    margin-top: -0.7em;
+}
+
+.logo{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: black;
+    margin-left: 0.5em;
+    width: 105px;
+    margin-top: 0.1em;
+}
+
+.UE{
+    height: 50px;
+    margin-left: 40px;
+    
+    
+}
+
+.all-3-div-mm{
+    margin-left: 100px;
+}
+
+.TRT{
+    height: 20px;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.header{
+    display: flex; 
+    justify-content: space-evenly; 
+    padding: 2em 2em; 
+    width: 100%; 
+    margin: auto 0; 
+    background-color: #f9f9f9; 
+
+}
+
+.ul1{
+    display: flex;
+    margin-left: -95px;
+    margin-top: 10.5px;
+    font-size: 0.95rem;
+}
+
+.li1{
+    height: 11px;
+    margin-top: 7px;
+    margin-left: 7px;
+}
+
+.li2{
+    height: 11px;
+    margin-top: 7px;
+    margin-left: 7px;
+}
+
+.li3{
+    height: 11px;
+    margin-top: 7px;
+    margin-left: 7px;
+}
+
+.li4{
+    height: 11px;
+    margin-top: 7px;
+    margin-left: 7px;
+
+}
+
+.dd32{
+    color: white;
+}
+
+.dd64{
+    color: white;
+}
+
+.main2{
+    width: 900px;
+    padding: 0px 50px;
+    margin-left: 330px;
+    margin-top: 50px;
+}
+
+.span1{
+    font-size: 40px;
+}
+
+.span2{
+    margin-left: 20px;
+}
+
+.main3{
+    width: 900px;
+    text-align: center;
+    margin-left: 330px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.main4{
+    margin-left: 640px;
+    padding: 30px 0px;
+}
+
+.btn1{
+    padding: 15px 15px;
+    background-color: #00b6d1;
+    color: white;
+    border: none;
+    font-weight: 610;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.img22{
+    width: 50px;
+}
+
+.main5{
+    display: flex;
+    align-items: center;
+    margin-left: 350px;
+    margin-top: 50px;
+
+}
+
+.duett{
+    margin-left: 20px;
+    text-align: center;
+    font-size: 23px;
+    margin-top: -15px;
+   
+}
+
+.txt22{
+    margin-left: 10px;
+}
+
+.small1{
+    margin-top: -7px;
+}
+
+.main4 .btn1:hover{
+    background-color: #10ceec;
+}
+
+
+
+.main-container{
+    width: 100%;
+    /* margin: 0 auto; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+            /* 
+            ###
+            ###
+                        Now Its time for (2nd)==>> 
+                        Second Main Content Its Grid Time Ok... Lets... Go...==========>>>>
+            ###
+            ### 
+
+
+                                grid-template-rows
+                                grid-template-columns
+                                grid-template-areas
+                                grid-auto-rows
+                                grid-auto-columns
+                                grid-auto-flow */
+
+
+.main{
+    padding: 100px 310px;
+    display: grid;
+    grid-template-columns: 330px 330px 330px;
+    grid-template-rows: 100px 100px 100px 100px;
+    grid-gap: 90px 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+}
+
+.div1{
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 700;
+    padding: 60px 27px;
+
+    
+
+}
+.subdiv1{
+    font-weight: 400;
+    font-size:12px;
+}
+
+.subdiv10{
+    font-weight: 400;
+    font-size:12px;
+    margin-top: 15px;
+}
+
+.d32{
+    background-color: #00b6d1;
+    color: white;
+    font-size: 13px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: -30px;
+    left: -5px;
+}
+
+
+.d64{
+    background-color: #5cb85c;
+    color: white;
+    font-size: 13px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: -30px;
+    left: 5px;
+
+}
+
+
+.lang1{
+    margin-top: -25px;
+    position: relative;
+    top: -10px;
+    font-size: large;
+}
+
+.main .div1 .d32:hover{
+    background-color: #10ceec;
+}
+
+.main .div1 .d64:hover{
+    background-color: #4d9e4d;
+}
+            /* 
+            ###
+            ###
+                        Now Its time for --- Footer Part 1 --- Ok Lets Go==========>>>>
+            ###
+            ### */
+
+    .container__footer{
+        width: 100%;
+        /* margin: 0 auto; */
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /* overflow-x: hidden; */
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blackftr{
+    height: 770px;
+    background-color: #222222;
+    padding: 50px 0px;
+
+}
+
+.textt1{
+    padding: 20px 21px;
+    margin-top: 170px;
+    margin-left: 300px;
+    width: 550px;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+.textt2{
+    margin-top: 10px;
+    font-weight: 300;
+    
+}
+
+.newsletter{
+    font-size: 22px;
+    
+}
+
+.spanbox1{
+    display: inline-block;
+    margin-left: 100px;
+    background-color: white;
+    border-radius: 15px;
+    height: 290px;
+    width: 360px;
+
+   
+}
+
+.divhead{
+    color: #00b6d1;
+    font-weight: 400;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-left: 43px;
+    padding: 10px 0px;
+   
+}
+
+.divsubhead{
+    margin-left: 103px;
+    font-size: smaller;
+   position: relative;
+   top: 25px;
+}
+
+
+.searchbox1{
+    height: 60px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 10px 10px;
+    border: 1px solid;
+    border-color: rgb(51 51 51 / 16%);
+    box-sizing: border-box;
+    
+}
+
+.searchbox1::placeholder{
+    font-size: 16px;
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+
+.SIGNUP{
+   margin-top: 15px;
+   margin-left: 27px;
+   width: 85%;
+   height: 50px;
+   background-color: #00b6d1;
+   border-color: #4daaf2;
+   color: white;
+   font-weight: 700;
+   font-size: medium;
+   border: 1px solid;
+   border-radius: 5px;
+   box-shadow: 0 14px 18px -8px rgb(77 170 242 / 37%);
+   cursor: pointer;
+
+}
+
+
+.SIGNUP:hover{
+    background-color: #10ceec;
+}
+
+
+
+
+.msitext{
+    color: white;
+    margin-left: 410px;
+    margin-top: 100px;
+}
+
+p{
+    padding: 10px 0px;
+    font-weight: 300;
+}
+
+.msitext2{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.msitext3{
+    padding: 6px 0px;
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.para3{
+    width: 1080px;
+}
+
+.botmtxt1{
+    color: #00b6d1;
+}
+
+
+
+            /* 
+            ###
+            ###
+                         Now Its time for --- Footer Part 2  --- Ok Lets Go==========>>>>
+            ###
+            ### */
+
+
+
+.whiteftr{
+    background-color: #f9f9f9;
+    height: 630px;
+}
+
+.boxdiv1{
+    display: flex;
+    margin-top: 110px;
+    margin-left: 240px;
+    
+}
+
+
+.listdiv1{
+    width: 300px;
+}
+
+
+.listdiv2{
+    width: 340px;
+}
+
+
+.listdiv3{
+    width: 300px;
+}
+
+
+.listhead1{
+    height: 50px;
+    font-size: larger;
+    font-weight: 600;
+    
+}
+
+
+.listhead2{
+    height: 50px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+
+.listhead3{
+    height: 50px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+
+.listhead4{
+    height: 50px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+
+.dwnli{
+    font-size: 14px;
+    font-weight: 400;
+    padding:2px 12px;
+}
+
+
+
+#lastbtn{
+    padding: 16px 10px;
+    border: 1px solid;
+    border-color: rgb(51 51 51 / 16%);
+    border-radius: 7px;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+   
+}
+
+
+#lastbtn::placeholder{
+    font-size: 16px;
+    position: relative;
+    left: 10px;
+    top: 2px;
+}
+
+.finalbtn{
+    width: 100%;
+    height: 50px;
+    border: 1px solid;
+    background-color: #00b6d1;
+    color: white;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: 700;
+    border-color: rgb(51 51 51 / 16%);
+    cursor: pointer;
+}
+
+.finalbtn:hover{
+    background-color: #10ceec;
+}
+
+.lasttwo{
+    display: flex;
+}
+
+.downlogo{
+    width: 170px;
+    margin-top: 70px;
+    margin-left: 250px;
+}
+
+.downlogo3{
+    margin-top: 70px;
+    margin-left: 250%;
+}
+
+.copyright{
+    margin-top: 20px;
+    margin-left: 250px;
+    font-size: 14px;
+}
+
+
+

@@ -1,0 +1,704 @@
+/* xs */
+/* @media (min-width: 475px) {} */
+
+/* sm */
+/* @media (min-width: 640px) {} */
+
+/* md */
+/* @media (min-width: 768px) {} */
+
+/* lg */
+/* @media (min-width: 1024px) {} */
+
+/* xl */
+/* @media (min-width: 1280px) {} */
+
+/* 2xl */
+/* @media (min-width: 1536px) {} */
+
+@media (min-width: 640px) {
+
+    .container__header{
+        max-width: 640px;
+    }
+
+    .checkbtn{
+        display: none;
+    }
+
+
+
+.ul1{
+    display: flex;
+    font-size: 0.7rem;
+   }
+
+
+
+
+
+   .nav1{
+    margin-left: 100px;
+   }
+
+
+   .ul1{
+    font-size: 0.5rem;
+    margin-left: 0.1em;
+   }
+
+   li{
+   display: flex;
+   list-style: none;
+   padding: 0px 3px;
+   width: max-content;
+}
+
+
+    span{
+        padding: 0px 2px;
+    }
+
+
+
+
+   .li1{
+        height: 5px;
+        margin-top: 3px;
+        margin-left: 1px;
+   }
+   .li2{
+        height: 5px;
+        margin-top: 3px;
+        margin-left: 1px;
+   }
+   .li3{
+        height: 5px;
+        margin-top: 3px;
+        margin-left: 1px;
+   }
+   .li4{
+        height: 5px;
+        margin-top: 3px;
+        margin-left: 1px;
+   }
+
+
+
+   .TRT {
+    height: 12px;
+    margin-top: 1px;
+    margin-left: 5px;
+   }
+
+
+   /* .li1{
+    height: 6px;
+    margin-top: 5.5px;
+    margin-left: 2.5px;
+    }
+
+    .li2{
+        height: 6px;
+        margin-top: 5.5px;
+        margin-left: 2.5px;
+    }
+    .li3{
+        height: 6px;
+        margin-top: 5.5px;
+        margin-left: 2.5px;
+    }
+    .li4{
+        height: 6px;
+        margin-top: 5.5px;
+        margin-left: 2.5px;
+    } */
+
+
+    /* ############################################################################################################################## */
+
+                            /* Header Complete =====>>>>> Part - 1 =====>>>>>    DONE Now...      */
+
+    /* ############################################################################################################################## */
+
+                                                    /* ********************* */
+
+    /* ############################################################################################################################## */
+
+                            /* Main Section =====>>>>> Part - 2 =====>>>>>    START's Now...      */
+
+    /* ############################################################################################################################## */
+
+
+    .all-3-div-mm{
+        margin-right: 22em;
+    }
+
+
+ 
+
+
+    /* ############################################################################################################################## */
+
+                            /* Main Section =====>>>>> Part - 2 =====>>>>>    DONE Now...      */
+
+    /* ############################################################################################################################## */
+
+                                                    /* ********************* */
+
+    /* ############################################################################################################################## */
+
+                            /* Footer Section =====>>>>> Part - 3 =====>>>>>    START's Now...      */
+
+    /* ############################################################################################################################## */
+
+
+   
+
+
+    .downlogo {
+        width: 160px;
+        margin-top: 70px;
+        margin-left: -27em;
+    
+    }
+
+
+   
+
+
+
+    .downlogo3 {
+        margin-top: 4em;
+        margin-left: 165%;
+
+    }
+
+    
+
+   
+
+    /* ############################################################################################################################## */
+
+                                /* Footer Section =====>>>>> Part - 3 =====>>>>>    DONE Now...      */
+
+    /* ############################################################################################################################## */
+
+
+
+
+
+
+
+        /* Font Sizes = Hero section Part ===>>> 1-----One */
+        
+        
+        
+        
+        .btn1 {
+            padding: 13px 13px;
+            background-color: #00b6d1;
+            color: white;
+            border: none;
+            font-weight: 610;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+        
+
+        .main2 {
+            width: 710px;
+            padding: 0px 50px;
+            margin-left: 365px;
+            margin-top: 20px;
+            text-align: center;
+            
+        }
+        
+        .span1 {
+            font-size: 45px;
+            margin-left: -2em;
+        }
+        
+
+        .span2 {
+            margin-left: 20px;
+        }
+        
+        .main3 {
+            width: 570px;
+            text-align: center;
+            margin-left: 390px;
+            font-size: 19px;
+            font-weight: 400;
+            margin-top: 10px;
+        }
+        
+        
+        
+        
+        .main4 {
+            margin-left: 550px;
+            padding: 30px 0px;
+        }
+        
+        
+        
+        
+        /* Font Sizes = Hero section Part ===>>> 2-----Two */
+        
+        
+        
+        
+        
+        .main5{
+            margin-right: 40em;
+            font-size: 0.7rem;
+            width: max-content;
+        }
+        
+        
+
+        /* .seclogo__img{
+            
+            
+        } */
+        
+        
+        .img22 {
+            width: 50px;
+        }
+        
+        
+        
+        .duett {
+            margin-left: 10px;
+            text-align: center;
+            font-size: 22px;
+            margin-top: -10px;
+        }
+        
+        
+        .small1 {
+            margin-top: -2px;
+        }
+        
+
+        .txt22 {
+            margin-left: 10px;
+        }
+        
+        
+        
+        
+        
+        /* Font Sizes = Hero section Part ===>>> 3-----Three */
+        
+        
+        
+        
+        
+        .main {
+            padding: 90px 310px;
+            display: grid;
+            grid-template-columns: 300px 300px 300px;
+            grid-template-rows: 150px 150px 150px 100px;
+            grid-gap: 100px 10px;
+            justify-content: center;
+            align-items: center;
+            margin-top: -30px;
+            grid-template-columns: max-content;
+        }
+        
+        
+        
+        .div1 {
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            text-align: center;
+            font-weight: 700;
+            padding: 70px 65px;
+        }
+        
+        
+
+
+        .lang1 {
+            margin-top: -25px;
+            position: relative;
+            top: -10px;
+            font-size: 0.9rem;
+        }
+
+
+        .subdiv1 {
+            font-weight: 400;
+            font-size: 10px;
+        }
+
+
+
+
+        .d32 {
+            background-color: #00b6d1;
+            color: white;
+            font-size: 11px;
+            padding: 10px 12px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            position: relative;
+            bottom: -30px;
+            left: -5px;
+        }
+
+
+
+        .d64 {
+            background-color: #5cb85c;
+            color: white;
+            font-size: 11px;
+            padding: 10px 12px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            position: relative;
+            bottom: -30px;
+            left: 10px;
+        }
+
+
+
+        
+        /* Font Sizes = Footer Part ===>>> 1 ----- One */
+        
+        
+        
+        
+        .blackftr {
+            height: max-content;
+            background-color: #222222;
+            padding: 50px 0px;
+        }
+        
+        
+        
+        
+        
+        .textt1{
+            margin-left: 6.7em;
+            padding: 10px 21px;
+            margin-top: 0em;
+            width: 28em;
+            height: 100px;
+            text-align: center;
+            display: inline-block;
+            color: white;
+        }
+        
+        
+        
+        .newsletter {
+            font-size: 20px;
+            margin-right: 0.7em;
+        }
+        
+        
+        
+        
+        .textt2 {
+            margin-top: 10px;
+            font-weight: 300;
+            font-size: 0.8rem;
+            width: 31em;
+        }
+
+        
+        
+        
+        .spanbox1{
+            margin-left: 9.5em;
+            display: inline-block;
+            background-color: white;
+            border-radius: 15px;
+            height: 17em;
+            width: 350px;
+            margin-top: 3em;
+        }
+
+
+        
+        
+        
+        .divhead {
+            color: #00b6d1;
+            font-weight: 400;
+            font-size: 1.3rem;
+            margin-top: 20px;
+            margin-left: 2.7em;
+            padding: 10px 0px;
+        }
+
+        
+        .divsubhead {
+            margin-left: 9em;
+            font-size: 0.8rem;
+            position: relative;
+            top: 25px;
+        }
+        
+        
+        
+        .searchbox1 {
+            height: 50px;
+            width: 280px;
+            margin-left: 41px;
+            margin-top: 30px;
+            padding: 10px 10px;
+            border: 1px solid;
+            border-color: rgb(51 51 51 / 16%);
+            box-sizing: border-box;
+        }
+        
+        
+
+
+        .searchbox1::placeholder{
+            font-size: 14px;
+            position: relative;
+            left: 10px;
+            top: 2px;
+        }
+
+        
+        
+        .SIGNUP {
+            margin-top: 15px;
+            margin-left: 38px;
+            width: 80%;
+            height: 45px;
+            background-color: #00b6d1;
+            border-color: #4daaf2;
+            color: white;
+            font-weight: 700;
+            font-size: medium;
+            border: 1px solid;
+            border-radius: 5px;
+            box-shadow: 0 14px 18px -8px rgb(77 170 242 / 37%);
+            cursor: pointer;
+        }
+
+        
+        
+        .msitext{
+            margin-left: 4.3em;
+            margin-top: 6em;
+            width: 33em;
+        }
+        
+        
+        .msitext2 {
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+        
+        
+        .msitext3 {
+            padding: 6px 0px;
+            margin-top: 10px;
+            font-size: 22px;
+            font-weight: 600;
+            
+        }
+
+
+
+
+        p {
+            padding: 10px 0px;
+            font-weight: 300;
+            font-size: smaller;
+            width: 37em;
+        }
+        
+        
+        .para2{
+            margin-bottom: 3.1em;
+        }
+        
+
+        .para3 {
+            width: 39em;
+        }
+
+
+        
+        /* Font Sizes = Footer Part ===>>> 2 ----- Two */
+
+
+
+        .whiteftr{
+            background-color: #f9f9f9;
+            height: max-content;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            /* overflow-x: hidden; */
+        }
+
+        
+        .boxdiv1{
+            display: flex;
+            margin-top: 80px;
+            /* margin-right: 36em; */
+            margin-left: 95px;
+            flex-wrap: wrap;
+            column-gap: 2em;
+            row-gap: 2em;
+            
+        }
+    
+
+        .listhead1 {
+            height: 50px;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+
+        
+        .listhead2{
+            font-size: 1rem;
+            
+        }
+        .listhead3{
+            font-size: 1rem;
+            
+        }
+        .listhead4{
+            font-size: 1rem;
+            
+        }
+
+
+
+        .dwnli {
+            font-size: 0.7rem;
+            font-weight: 400;
+            padding: 2px 12px;
+        
+        }
+        
+        
+        #lastbtn {
+            padding: 13px 10px;
+            border: 1px solid;
+            border-color: rgb(51 51 51 / 16%);
+            border-radius: 7px;
+            width: 100%;
+            height: auto;
+            margin-top: 5px;
+            margin-bottom: 10px;
+        
+        
+        }
+        
+        #lastbtn::placeholder{
+            font-size: 13px;
+            position: relative;
+            left: 10px;
+            top: 2px;
+        }
+        
+
+        
+        .finalbtn {
+            width: 100%;
+            height: 40px;
+            border: 1px solid;
+            background-color: #00b6d1;
+            color: white;
+            border-radius: 7px;
+            font-size: 14px;
+            font-weight: 700;
+            border-color: rgb(51 51 51 / 16%);
+            cursor: pointer;
+
+        }   
+
+
+
+
+
+        .downlogo {
+            width: 130px;
+            margin-top: 70px;
+            margin-left: -7em;
+
+        }
+
+
+
+        .downlogo3 {
+            margin-top: 4.7em;
+            margin-left: 56%;
+            width: 13em;
+        }
+
+
+
+        .copyright {
+            margin-top: 1em;
+            margin-right: 50em;
+            font-size: 11px;
+            width: max-content;
+    
+    
+        }
+
+
+        .listdiv1 {
+            width: 220px;
+        }
+
+
+
+
+        .listdiv2 {
+            width: 250px;
+        }
+
+
+
+        .listdiv3 {
+            width: 200px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
