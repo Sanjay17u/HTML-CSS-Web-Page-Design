@@ -1071,18 +1071,19 @@
         
         
         .newsletter {
-            font-size: 20px;
-            margin-right: 0.7em;
+            font-size: 17px;
+            margin-right: 0.3em;
         }
         
         
         
         
         .textt2 {
-            margin-top: 10px;
+            margin-top: 5px;
             font-weight: 300;
-            font-size: 0.8rem;
+            font-size: 0.6rem;
             width: 31em;
+            margin-left: 5em;
         }
 
         
