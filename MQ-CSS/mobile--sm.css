@@ -905,7 +905,7 @@
         
         
         .main4 {
-            margin-left: 357px;
+            margin-left: 355px;
             padding: 20px 0px;
         }
         
@@ -919,8 +919,8 @@
         
         
         .main5{
-            margin-right: 42em;
-            font-size: 0.7rem;
+            margin-right: 67em;
+            font-size: 0.4rem;
             width: max-content;
         }
         
@@ -933,26 +933,28 @@
         
         
         .img22 {
-            width: 50px;
+            width: 40px;
             margin-left: 11em;
         }
         
         
         
         .duett {
-            margin-left: 10px;
+            margin-left: 1px;
             text-align: center;
-            font-size: 22px;
-            margin-top: -10px;
+            font-size: 20px;
+            margin-top: -4px;
             width: 10em;
+            
         }
         
         
         .small1 {
-            margin-top: -2px;
+            margin-top: 1px;
             display: flex;
             flex-wrap: wrap;
             width: min-content;
+            margin-left: -1.5em;
         }
         
 
