@@ -1090,12 +1090,12 @@
         
         
         .spanbox1{
-            margin-left: 0.8em;
+            margin-left: 2.3em;
             display: inline-block;
             background-color: white;
             border-radius: 15px;
-            height: 17em;
-            width: 350px;
+            height: 16.5em;
+            width: 300px;
             margin-top: 3em;
         }
 
@@ -1106,15 +1106,15 @@
         .divhead {
             color: #00b6d1;
             font-weight: 400;
-            font-size: 1.3rem;
+            font-size: 1.1rem;
             margin-top: 20px;
-            margin-left: 2.7em;
+            margin-left: 2.6em;
             padding: 10px 0px;
         }
 
         
         .divsubhead {
-            margin-left: 9em;
+            margin-left: 7em;
             font-size: 0.8rem;
             position: relative;
             top: 25px;
@@ -1124,8 +1124,8 @@
         
         .searchbox1 {
             height: 50px;
-            width: 280px;
-            margin-left: 41px;
+            width: 236px;
+            margin-left: 32px;
             margin-top: 30px;
             padding: 10px 10px;
             border: 1px solid;
@@ -1147,7 +1147,7 @@
         
         .SIGNUP {
             margin-top: 15px;
-            margin-left: 38px;
+            margin-left: 30px;
             width: 80%;
             height: 45px;
             background-color: #00b6d1;
